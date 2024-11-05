@@ -1,4 +1,4 @@
-[![MasterHead](https://www.redeweb.com/wp-content/uploads/2021/03/software-1-640x360.jpg)
+[![MasterHead](https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb)
 <h1 align="center">Hi 👋, I'm EFE AVCI</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
